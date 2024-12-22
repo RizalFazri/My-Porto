@@ -765,6 +765,13 @@ footer .wave {
   width: 300px;
 }
 
+.cert-img {
+  width: 150px; /* Sesuaikan ukuran lebar sesuai kebutuhan */
+  height: auto;
+  margin: 10px auto; /* Memberikan jarak antar gambar */
+  display: block;
+}
+
 .cert-link {
   display: inline-block;
   margin-top: 10px;
@@ -848,13 +855,13 @@ footer .wave {
 .cert-link {
   display: inline-block;
   margin-top: 8px;
-  color: #0284c7;
+  color: #000000;
   text-decoration: none;
   font-weight: bold;
 }
 
 .project-link:hover, 
 .cert-link:hover {
-  color: #0056a3;
+  color: #000000;
   text-decoration: underline;
 }
