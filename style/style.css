@@ -538,6 +538,15 @@ header .logo a {
   margin: 10% auto;
 }
 
+.map-container {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.map-container h2 {
+  margin-bottom: 10px;
+}
+
 input[type="text"],
 [type="email"],
 select,
